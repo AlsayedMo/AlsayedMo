@@ -21,8 +21,7 @@
 
 <p>
          <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlsayedMo&layout=compact&show_icons=true&theme=radical%22%3E>
-         <img width="50%" src="https://github-readme-stats.vercel.app/api?username=AlsayedMo&show_icons=true&theme=radical%22%3E>
-         <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlsayedMo&show_icons=true&theme=radical%22%3E>
+         
 
 </p>
 
